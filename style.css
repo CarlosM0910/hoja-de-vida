@@ -15,7 +15,7 @@ body{
 }
 .contenido{
     display: flex;
-    height: 160vh;
+    height: 180vh;
     text-align: center;
 }
 .info{

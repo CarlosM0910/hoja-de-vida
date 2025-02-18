@@ -1,1 +1,26 @@
-
+.fotoperfil{
+    height: 250px;
+    width: 200px;
+    border-radius: 10%;
+}
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+}
+.perfil{
+    background-color: rgb(36, 49, 32);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    width: 30%;
+}
+.contenido{
+    display: flex;
+    height: 140vh;
+    text-align: center;
+}
+.info{
+    background-color: rgb(48, 44, 44);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    width: 50%;
+}

@@ -15,7 +15,7 @@ body{
 }
 .contenido{
     display: flex;
-    height: 140vh;
+    height: 160vh;
     text-align: center;
 }
 .info{
@@ -23,4 +23,7 @@ body{
     color: rgb(255, 255, 255);
     text-align: center;
     width: 50%;
+}
+.link{
+    color: darkgreen;
 }
